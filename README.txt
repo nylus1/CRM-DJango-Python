@@ -1,0 +1,1 @@
+Para crear un proyecto django con la consola de vs code se necesita declarar: python -m django startproject "myproject"
